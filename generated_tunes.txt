@@ -1,0 +1,62 @@
+
+================================================================================
+Tune #1
+================================================================================
+X:1
+T:Generated Irish Tune
+M:4/4
+L:1/8
+K:Gmaj
+!p! g | .g.g.g.g g>g g2 | .d.g.g.g g2 z2 | .d2.d2 (dc).d.d | 
+ f2a2 g2ag | (fd).d.d d2d2 | e2g2 e2g2 |"^*" f2ff (f>ga)f |"_fine" g2g2g2 :: (g>a).g.f | 
+ d2d2d2>e2 | g2d2d2d2 | (B2B2).B2.d2 | e2g2f2>.e2 | (dc).B.A (Bcdc) | B2B2 B2>(g2 | abag) g2>f2 | 
+ g2d2d2d2 | (g2db) g2>g2 | d4 d2 z2 :|           
+
+================================================================================
+Tune #2
+================================================================================
+X:1
+T:Generated Irish Tune
+M:4/4
+L:1/8
+K:Gmaj
+!p! P!>!e G!p! a G D e e!p!!p! e D c | (ub>.a) (.g>.e) .d2 (e>d) | 
+ (c>B)(.AG) (Bc)(dc) | (BA)(GF) F2 z2 | (G>A)(BF) (E>G)(GE) | (FG)(.A.B) .G2 z2 | (BA)(GF) (EF)(TFE) | 
+ D2 !fermata!F2 A2 G2 | (FG)(AB) c2 (AB) | (cB)(AG) F2 z2 ||                                                                    
+
+================================================================================
+Tune #3
+================================================================================
+X:1
+T:Generated Irish Tune
+M:4/4
+L:1/8
+K:Gmaj
+"^Muad ortmo 4cear. Cutzin" B,2A,2 B,DDB, | B,2DD ECCB | 
+ A2BA G2G2 | FGED CDFD | GBBB BcBc | c2<c2 cBAG | A2DC DEG>B | ABcd ef :: gf | g2bg e2cA | d2df e2ce | 
+ d2>g2 fgfa | ggfg d2dd | g2g2 d2gd | B2>A2 GFED | G2G2 AGFE | D2F2 G2 :|                                                                 
+
+================================================================================
+Tune #4
+================================================================================
+X:1
+T:Generated Irish Tune
+M:4/4
+L:1/8
+K:Gmaj
+ | DGGG ABAG | FFE/F/G/F/ G2G A | Bc/B/AF GGGA | BAGA B2 G2 | 
+ ABGF GABc | dcde dcAF | GABc d2 d2 | ABAG AG F2 | GFGF EDEF | G2 FG FEED | cBAB cABG | 
+ AGEF G2 G2 ||                                                                                                                                      
+
+================================================================================
+Tune #5
+================================================================================
+X:1
+T:Generated Irish Tune
+M:4/4
+L:1/8
+K:Gmaj
+"^Jid or modriago" GAGE D2DF G6 d2 | defd cAFA GBdB | 
+ ABcA GAGF D2G2 | ABcA dcAG FDFA | GDGE D2G2 FEDC | DEFG AcBA G2G2 :| cdef gfdf cAcA | 
+ GdBG DFEF G2GA | B2c2 dcde f2f2 | fedc A4 A2B2 | cBAG AGFG AcAG | F2G2 G2AB c2A2 :: 
+ G2G2 A2Bc d2c2 | B2d2 c2AG F2D2 | F2F2 G2AB c2G2 | FGAB cdef d2e2 | c2

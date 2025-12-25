@@ -1,0 +1,6 @@
+X:1
+L:1/8
+M:4/4
+K:G
+ D | G>AB>c d<g g2 | c>BA>B c>de>f | g>de>g d>BG>A | B>AA>B c2 B :| G | B>AB>c d>BG>B | 
+ A>Bc>d e2 e>f | g>ag>e d>BA>G | F>A G>F G3 :|  
