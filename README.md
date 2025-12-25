@@ -18,8 +18,6 @@ The project covers the **full deep learning pipeline**:
 * Training optimization and feasibility analysis
 * Autoregressive music generation
 
----
-
 ##  Objectives
 
 * Model musical sequences as text using **ABC notation**
@@ -28,7 +26,6 @@ The project covers the **full deep learning pipeline**:
 * Analyze computational constraints and optimize training
 * Explore creativity vs coherence using **temperature sampling**
 
----
 
 ##  Dataset
 
@@ -42,7 +39,6 @@ The project covers the **full deep learning pipeline**:
 
 Each song is represented as a **raw text sequence** describing melody, meter, key, and structure.
 
----
 
 ##  ABC Notation
 
@@ -61,7 +57,6 @@ ABC is a compact ASCII-based music notation:
 
 This format is ideal for sequence modeling with RNNs.
 
----
 
 ##  Data Preprocessing
 
@@ -78,7 +73,6 @@ This format is ideal for sequence modeling with RNNs.
 * Mean length: 290
 * Max length: 2,968
 
----
 
 ## Model Architecture
 
@@ -98,7 +92,6 @@ Why LSTM?
 * Mitigates vanishing gradients
 * Suitable for long sequential data like music
 
----
 
 ##  Training Strategy
 
@@ -110,7 +103,6 @@ Why LSTM?
 * **TensorBoard** for monitoring loss and accuracy
 * **Gradient clipping** for stability
 
----
 
 ## Computational Analysis
 
@@ -120,13 +112,12 @@ Initial configuration was **computationally infeasible**:
 * ~15–20 GB VRAM required
 * Not compatible with Kaggle P100 constraints
 
----
 
 ## Optimized Configuration
 
 To make training feasible:
 
-* Reduced dataset size:
+* We Reduced dataset size:
 
   * Train: 20,000 songs
   * Validation: 2,000 songs
@@ -142,7 +133,8 @@ To make training feasible:
 
 This configuration balances **performance, creativity, and feasibility**.
 
----
+# Performance: 
+Val Accuracy: 0.8719
 
 ## 🎶 Music Generation
 
@@ -170,4 +162,5 @@ example :
 * PyTorch Documentation
 * TensorBoard
 * ABC Notation
+
 
