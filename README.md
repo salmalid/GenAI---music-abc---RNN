@@ -160,6 +160,9 @@ The model generates music **autoregressively**:
 * `T > 1` → more creative, less stable
 
 Generated outputs can be played using **ABC players**.
+example : 
+<img width="1246" height="322" alt="one TUNE" src="https://github.com/user-attachments/assets/10eea242-f103-479c-b36c-1fcfc64cc63b" />
+
 
 
 ##  References
@@ -167,3 +170,4 @@ Generated outputs can be played using **ABC players**.
 * PyTorch Documentation
 * TensorBoard
 * ABC Notation
+
